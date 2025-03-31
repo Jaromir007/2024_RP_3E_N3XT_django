@@ -2,6 +2,8 @@
 
 Repozitář pro verzi Django (nedodělané, z většiny Michalova práce)
 
+Hlavní repozitář: [2024\_RP\_3E\_N3XT](https://github.com/Jaromir007/2024_RP_3E_N3XT)
+
 ## How to run:
 
 1. **Create a virtual environment:**
